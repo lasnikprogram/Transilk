@@ -1,6 +1,7 @@
 # Transilk 
-![Lines of code](https://img.shields.io/badge/lines-1818-444444)
-![Java classes](https://img.shields.io/badge/classes-37-444444)
+![Lines of code](https://img.shields.io/badge/lines-1818-444444?style=for-the-badge)
+![Java classes](https://img.shields.io/badge/classes-37-444444?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/lasnikprogram/Transilk?color=444444&style=for-the-badge)
 
 ### Welcome to Transilk - your go-to translation program!
 Transilk is a modern and intuitive program designed to provide seamless translation services to users. 
