@@ -2,4 +2,6 @@
 /out/
 /resources/dictionaries/
 /resources/images/
-/.idea/
+
+/.idea/shelf/
+/.idea/workspace.xml

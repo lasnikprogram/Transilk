@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Transilk:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Transilk_jar</output-path>
+    <root id="archive" name="Transilk.jar">
+      <element id="module-output" name="Transilk" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/xz-1.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/gson-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/dictzip-lib-0.13.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-compress-1.22.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
