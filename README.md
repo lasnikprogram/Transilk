@@ -13,7 +13,7 @@ The program was tested on Ubuntu and Windows but should technically work on all 
 
 ## Usage
 Dictionaries can simply be specified by clicking on a flag icon and typing in the [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the language.
-The icon and dictionary for the language will be automatically donloaded. 
+The icon and dictionary for the language will be automatically downloaded. 
 Users can then simply search a word by typing in the search field.
 
 ## Download
