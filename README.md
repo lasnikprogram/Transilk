@@ -18,6 +18,9 @@ The icon and dictionary for the language will be automatically downloaded.
 Users can then simply search a word by typing in the search field.
 
 ## Download
+Right now only possible by building package:  
+In Intellij Idea: `Build` | `Build Artifact` | `Build`, result in `out/jars/`.
+
 Working on a reliable solution.
 
 ## Additional Tools
