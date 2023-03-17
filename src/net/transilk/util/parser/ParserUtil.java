@@ -19,7 +19,7 @@ public class ParserUtil {
         for (int i = 0; i < lines.length; i++) {
             String line = lines[i];
             if (i == 0) {
-                entryHolder.setLeft(line);
+                entryHolder.setLeft(line.split("/")[0]);
             } else if (i == 1) {
                 entryHolder.setRight(line);
             } else if (line.startsWith(" ")) {

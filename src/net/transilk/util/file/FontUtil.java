@@ -21,7 +21,6 @@ public class FontUtil {
         } catch (IOException | FontFormatException e) {
             System.err.println("Consider putting \"Comfortaa-Bold.ttf\" in the \"fonts\" folder");
             useFallBackFont();
-            e.printStackTrace();
         }
     }
 

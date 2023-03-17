@@ -56,6 +56,7 @@ public class DictionaryScreen extends JPanel {
         addScrollableListPanel();
 
         searchField.setText(PreferencesUtil.getSearchField());
+        SwingUtilities.invokeLater(searchField::requestFocusInWindow);
     }
 
     private void addSearchField() {

@@ -28,12 +28,11 @@ public class EntryPanel extends JPanel {
         shownEntryPanel.addMouseListener(new MouseAdapter() {
             @Override
             public void mousePressed(MouseEvent e) {
-                hiddenEntryPanel.setVisible(!hiddenEntryPanel.isVisible());
                 super.mousePressed(e);
+                hiddenEntryPanel.setVisible(!hiddenEntryPanel.isVisible());
 
                 // fixes bug when just a few EntryPanels are there: GUI is messy
-                MainGui.getFrame().revalidate();
-                MainGui.getFrame().repaint();
+                SwingUtilities.invokeLater(MainGui.getFrame()::repaint);
             }
         });
     }
