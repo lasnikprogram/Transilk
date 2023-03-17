@@ -7,7 +7,7 @@
 Transilk is a modern and intuitive program designed to provide seamless translation services to users. 
 With the help of the [FreeDict API](https://freedict.org/), the program can automatically download dictionaries and use them to provide translations for any word you input.
 
-![image](https://user-images.githubusercontent.com/61758940/225668443-35083d2e-4aa1-4634-b389-e10a615c5025.png)
+![image](https://user-images.githubusercontent.com/61758940/225970467-a728dd3f-94c9-46f6-81ef-e8abd0caad57.png)
 
 The main goal for this school project was to brighten up the field of translation programs with a program that looks better than the rest.
 The program was tested on Ubuntu and Windows but should technically work on all Operating Systems.
